@@ -1,0 +1,32 @@
+# dependencias necessarias p rodar o projeto: 
+blinker==1.8.2
+# Utilizado para sinais ou notificações, comum em frameworks
+# como o Flask para notificar eventos entre diferentes componentes.
+click==8.1.7
+# Um pacote para criar interfaces de linha de comando de forma simples e poderosa.
+colorama==0.4.6
+# Adiciona cores ao texto em terminais, útil para melhorar a saída de scripts em linha de comando.
+Flask==3.0.3
+# Um framework web minimalista e leve para construir aplicações web em Python.
+itsdangerous==2.2.0
+# Ferramenta para assinar dados de maneira segura, usada pelo Flask para gerenciar cookies e dados de sessão.
+Jinja2==3.1.4
+# Um mecanismo de template para Python, muito usado em frameworks como Flask para gerar páginas HTML dinâmicas.
+MarkupSafe==2.1.5
+# Fornece uma maneira segura de manipular strings HTML e XML, protegendo contra injeções de código malicioso.
+numpy==2.1.1
+# Biblioteca poderosa para manipulação de arrays e operações matemáticas de alto desempenho.
+pandas==2.2.2
+# Usada para manipulação e análise de dados, especialmente em formato tabular.
+python-dateutil==2.9.0.post0
+# Adiciona extensões poderosas à manipulação de datas e horários no Python.
+pytz==2024.2
+# Biblioteca para trabalhar com fusos horários.
+six==1.16.0
+# Utilizada para compatibilidade entre Python 2 e 3.
+tzdata==2024.1
+# Banco de dados de fusos horários, muitas vezes usado em conjunto com pytz.
+Werkzeug==3.0.4
+# Uma biblioteca WSGI utilizada por Flask para gerenciar requests e respostas HTTP.
+langdetect==1.1.1
+# detectar idiomas
